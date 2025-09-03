@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#ffa726"  # A warm, inviting amber/orange
+backgroundColor = "#121212" # A classic, neutral dark gray (true dark)
+secondaryBackgroundColor = "#2e2e2e" # A lighter gray for containers
+textColor = "#e0e0e0" # A clean off-white
+font = "sans serif"
+
+[server]
+headless = true
+
+[ui]
+hideTopBar = true
