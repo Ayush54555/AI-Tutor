@@ -1,17 +1,8 @@
 [theme]
-# A confident, classic cobalt blue for interactive elements.
-primaryColor = "#4285F4"
-
-# A deep, neutral carbon black for the main background.
-backgroundColor = "#1e1e1e"
-
-# A slightly lighter charcoal for depth in containers.
-secondaryBackgroundColor = "#2e2e2e"
-
-# A very light, soft gray for text to ensure high contrast and readability.
-textColor = "#f0f2f6"
-
-# Font family for all text in the app.
+primaryColor = "#ffa726"  # A warm, inviting amber/orange
+backgroundColor = "#121212" # A classic, neutral dark gray (true dark)
+secondaryBackgroundColor = "#2e2e2e" # A lighter gray for containers
+textColor = "#e0e0e0" # A clean off-white
 font = "sans serif"
 
 [server]
