@@ -19,9 +19,9 @@ An intelligent, conversational AI-powered tutor built with Streamlit and Google'
 
 ---
 
-## 🚀 Live Demo / Screenshot
+## 🚀 Live Demo
 
-[**➡️ Click here to view the live application**]([https://your-app-name.streamlit.app/](https://ai-tutor-e4yxgmvke2f4chhjdewpqr.streamlit.app/))
+[**➡️ Click here to view the live application**](https://ai-tutor-e4yxgmvke2f4chhjdewpqr.streamlit.app/)
 
 ---
 
