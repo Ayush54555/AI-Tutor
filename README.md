@@ -21,11 +21,7 @@ An intelligent, conversational AI-powered tutor built with Streamlit and Google'
 
 ## 🚀 Live Demo / Screenshot
 
-**Recommendation:** A short GIF is the best way to showcase your app. Use a tool like [ScreenToGif](https://www.screentogif.com/) or Kap to record your app in action and embed it here.
-
-![AI Tutor Screenshot](<INSERT_YOUR_SCREENSHOT_URL_HERE>)
-
-*A placeholder image. Replace with a real screenshot or GIF of your application.*
+[**➡️ Click here to view the live application**]([https://your-app-name.streamlit.app/](https://ai-tutor-e4yxgmvke2f4chhjdewpqr.streamlit.app/))
 
 ---
 
