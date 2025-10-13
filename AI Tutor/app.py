@@ -15,8 +15,8 @@ except Exception as e:
 
 # Initialize models
 try:
-    text_model = genai.GenerativeModel("gemini-1.5-flash") # Updated for better performance
-    vision_model = genai.GenerativeModel("gemini-1.5-flash")
+    text_model = genai.GenerativeModel("models/gemini-2.5-flash") # Updated for better performance
+    vision_model = genai.GenerativeModel("models/gemini-2.5-flash")
 except Exception as e:
     st.error(f"Error initializing the Generative Models. Details: {e}")
     st.stop()
@@ -201,4 +201,5 @@ if st.session_state.awaiting_solution and st.session_state.last_question_type ==
             st.session_state.chat_history.append(("Tutor (Solution)", answer))
             st.session_state.awaiting_solution = False
             st.session_state.solution_displayed = True
+
         st.rerun()
